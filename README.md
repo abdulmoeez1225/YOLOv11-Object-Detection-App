@@ -1,4 +1,4 @@
-# YOLO Object Detection App
+# YOLOv11 Object Detection App
 
 ![Made with FastAPI](https://img.shields.io/badge/FastAPI-Async%20Web%20Framework-009688?logo=fastapi&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-green?logo=openai)
@@ -72,6 +72,7 @@ YOLO-Object-Detection-App/
 ---
 
 ## Demo
+![alt text](https://github.com/abdulmoeez1225/YOLOv11-Object-Detection-App/blob/main/image.png?raw=true)
 
 
 ---
